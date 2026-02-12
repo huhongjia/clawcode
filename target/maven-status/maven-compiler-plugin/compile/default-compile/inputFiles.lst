@@ -1,0 +1,10 @@
+/home/admin/.openclaw/workspace/clawcode/src/main/java/com/example/clawcode/model/User.java
+/home/admin/.openclaw/workspace/clawcode/src/main/java/com/example/clawcode/controller/UserController.java
+/home/admin/.openclaw/workspace/clawcode/src/main/java/com/example/clawcode/model/WorkReport.java
+/home/admin/.openclaw/workspace/clawcode/src/main/java/com/example/clawcode/repository/WorkReportRepository.java
+/home/admin/.openclaw/workspace/clawcode/src/main/java/com/example/clawcode/controller/WorkReportController.java
+/home/admin/.openclaw/workspace/clawcode/src/main/java/com/example/clawcode/ClawcodeApplication.java
+/home/admin/.openclaw/workspace/clawcode/src/main/java/com/example/clawcode/controller/HelloController.java
+/home/admin/.openclaw/workspace/clawcode/src/main/java/com/example/clawcode/service/UserService.java
+/home/admin/.openclaw/workspace/clawcode/src/main/java/com/example/clawcode/service/impl/UserServiceImpl.java
+/home/admin/.openclaw/workspace/clawcode/src/main/java/com/example/clawcode/repository/UserRepository.java

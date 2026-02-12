@@ -1,6 +1,6 @@
 package com.example.clawcode.model;
 
-import jakarta.persistence.*;
+import javax.persistence.*;
 import java.time.LocalDateTime;
 
 @Entity

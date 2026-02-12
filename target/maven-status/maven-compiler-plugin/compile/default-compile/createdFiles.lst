@@ -1,0 +1,10 @@
+com/example/clawcode/repository/UserRepository.class
+com/example/clawcode/controller/WorkReportController.class
+com/example/clawcode/service/impl/UserServiceImpl.class
+com/example/clawcode/service/UserService.class
+com/example/clawcode/model/WorkReport.class
+com/example/clawcode/repository/WorkReportRepository.class
+com/example/clawcode/ClawcodeApplication.class
+com/example/clawcode/controller/HelloController.class
+com/example/clawcode/controller/UserController.class
+com/example/clawcode/model/User.class
